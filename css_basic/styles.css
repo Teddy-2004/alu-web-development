@@ -5,3 +5,7 @@ body{
 main{
     flex: auto;
 }
+
+.works_on_smartphone{
+    display: flex;
+}
