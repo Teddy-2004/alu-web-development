@@ -1,0 +1,185 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+}
+
+header {
+    width: 100%;
+    height: 100%;
+    top: 35.02px;
+    left: 171.59px;
+    gap: 0px;
+    opacity: 0px;
+    justify-content: space-between;
+    background: none;
+    display: flex;
+    flex-direction: row;
+    color: #FFFFFF;
+    position: relative;
+}
+.pageone{
+    padding-top: 20px;
+    background-image: url(/images/background.png);
+    color: #FFFFFF;
+    background-size: 100% 100%;
+}
+.getschool {
+    text-align: center;
+}
+.getschool h1{
+    font-family: source sans-serif;
+    font-size: 120px;
+    font-weight: bold;
+    margin: 0;
+}
+.getschool p{
+    display:inline;
+    gap: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: source sans-serif;
+    text-align: center;
+    margin-right: 15px;
+    margin-left: 15px;
+    
+}
+
+.getschool button{
+    width: 162px;
+    height: 44px;
+    display: block;
+    border-radius: 50px;
+    border: none;
+    color: #FFFFFF;
+    background-color: #C271FF;
+    margin: auto;
+    margin-top: 20px;
+}
+.learnpros {
+    display: block;
+}
+
+.prosname {
+    display: flex;
+}
+.prosname {
+    justify-content: space-between;
+    margin: 180px;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+.learnpros h2{
+    text-align: center;
+    margin-top: 100px;
+}
+.learnpros h2 span{
+    color: #C271FF;
+}
+.section2{
+    background-color: #C271FF;
+    height: 392px;
+}
+.testimony{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 98px;
+    gap: 50px;
+}
+.section3 {
+    display: block;
+    background-color: aqua;
+}
+
+.section3main{
+    display: flex;
+    flex-direction: row;
+}
+.preview{
+    max-width: 22%;
+    background-color: #FFFFFF;
+}
+.prosimage{
+    position: relative;
+    display: flex;
+}
+.prosimage img{
+    width: 70px;
+}
+.prosimage p{
+    display: flex;
+}
+.previewstar{
+    display: flex;
+    justify-content: space-between;
+}
+.section4{
+    background-color: #071629;
+    color: #FFFFFF;
+    display: block;
+    padding: 40px;
+}
+.section4 h2{
+    margin: auto;
+    text-align: center;
+}
+.section4 button{
+    margin: auto;
+    display: block;
+    align-items: center;
+    width: 162px;
+    height: 44px;
+    display: block;
+    border-radius: 50px;
+    border: none;
+    color: #FFFFFF;
+    background-color: #C271FF;
+    margin: auto;
+    margin-top: 20px;
+}
+.membership{
+    display: flex;
+    margin: 50px;
+    max-width: 80%;
+    margin-left: 70px;
+}
+
+.section5{
+    display: block;
+    text-align: center;
+}
+.section5 h1{
+    font-size: 60px;
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+.questions{
+    display: flex;
+    gap: 100px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 40px;
+}
+
+footer{
+    background-color: #071629;
+    color: #FFFFFF;
+    height: 249px;
+    font-size: 12px;
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+.footerclass{
+    display: flex;
+    justify-content: space-between;
+    padding: 75px;
+}
+.socialmedia img{
+   margin-right: 30px;
+   width: 30px;
+}
+footer p{
+    display: flex;
+    justify-content: center;
+}
